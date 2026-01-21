@@ -1,4 +1,8 @@
-# Markdown Knowledge Base 📚
+<div align=center>
+<img src="https://www.markdownlang.com/static/images/logo.svg" width="300" height="300" />
+</div>
+
+# Markdown Language Learning Base 📚
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ayuday/markdown?style=social)](https://github.com/ayuday/markdown)
@@ -24,9 +28,8 @@ English | [简体中文](./README_cn.md)
 ## 🌐 Online Resources
 
 - **Official Website**: [https://www.markdownlang.com](https://www.markdownlang.com)
-- **Online Tools**: [https://www.markdownlang.com/tools](https://www.markdownlang.com/tools)
 - **Chinese Docs**: [https://www.markdownlang.com/zh-cn/](https://www.markdownlang.com/zh/)
-- **English Docs**: [https://www.markdownlang.com/en/](https://www.markdownlang.com/en/)
+
 
 ## 📋 Documentation Index
 
