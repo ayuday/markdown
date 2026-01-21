@@ -1,0 +1,31 @@
+{
+  "name": "markdown-tools",
+  "version": "1.0.0",
+  "description": "A collection of useful Markdown tools built with Vue 3 and UnoCSS",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "vue": "^3.4.0",
+    "vue-router": "^4.2.0",
+    "marked": "^12.0.0",
+    "turndown": "^7.1.0",
+    "html2pdf.js": "^0.10.1",
+    "prismjs": "^1.29.0",
+    "@vueuse/core": "^10.7.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "vite": "^5.0.0",
+    "unocss": "^0.58.0",
+    "@unocss/preset-uno": "^0.58.0",
+    "@unocss/preset-icons": "^0.58.0",
+    "@unocss/preset-web-fonts": "^0.58.0",
+    "eslint": "^8.55.0",
+    "eslint-plugin-vue": "^9.19.0"
+  }
+}
